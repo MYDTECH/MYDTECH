@@ -1,7 +1,3 @@
-Welcome to MY [D] TECH. The world's most famous software company. 
-"Use our OS and softwares and feel like that you are in our OS and Softwares."
-
-
 <h1 align="center">Welcome to MY [D] TECH</h1>
 <h3 align="center">"Use our OS and softwares and feel like that you are in our OS and Softwares."</h3>
 
